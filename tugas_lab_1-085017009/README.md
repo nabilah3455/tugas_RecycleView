@@ -1,2 +1,3 @@
 # Android
-Aplikasi yang dibuat saat proses Praktikum
+Ghoniyyatul Nabilah
+RecycleView
